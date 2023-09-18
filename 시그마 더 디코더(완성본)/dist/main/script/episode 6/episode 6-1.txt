@@ -1,0 +1,34 @@
+story background
+10
+
+circum
+
+에필로그
+
+circum
+
+......
+
+circum
+
+......
+
+circum
+
+치직
+
+talk
+50
+
+-인류 자유화 프로젝트가 성공적으로 완료 되었습니다.
+
+talk
+50
+
+-후속 프로젝트, 로봇 파괴를 시작합니다.
+
+circum
+
+-띡.
+
+Null

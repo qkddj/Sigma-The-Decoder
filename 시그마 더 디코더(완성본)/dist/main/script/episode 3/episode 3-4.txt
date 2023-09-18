@@ -1,0 +1,29 @@
+story background
+14
+
+talk
+00
+
+"포기해라."
+
+talk
+30
+
+"......"
+
+circum
+
+남자는 그저 날카로운 눈빛으로 나를 쳐다본다.
+
+circum
+
+싸우는 것을 포기했으면서.
+
+circum
+
+talk
+00
+
+"이제 그만 이기적이게 살아."
+
+Null
